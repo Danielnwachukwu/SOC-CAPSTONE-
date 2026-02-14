@@ -38,7 +38,8 @@ The project demonstrates my hands-on experience in analyzing security events, in
 ## 📄 Project Documentation
 The full capstone report is available here:
 
-**File:** `CAPSTONE REPORT.DANIEL.pdf`
+[CAPSTONE REPORT. DANIEL.pdf](https://github.com/user-attachments/files/25314721/CAPSTONE.REPORT.DANIEL.pdf)
+
 
 It includes:
 - Investigation methodology
