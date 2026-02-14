@@ -48,10 +48,6 @@ It includes:
 - Screenshots and evidence
 - Response actions taken
 
-## 👨‍💻 Author
-**Daniel Nwachukwu**  
-Cybersecurity Analyst (SOC) | AI-Driven Security Operations and Automation
-
 
 ## 🚀 Career Focus
 I am passionate about:
